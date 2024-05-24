@@ -42,3 +42,13 @@ printinfo ("Naveen", 29)
 
 # by keyword arguments
 printinfo(name="miki", age = 30)
+
+#global variables
+name = 'TutorialsPoint'
+marks = 50
+def myfunction():
+   # accessing inside the function
+   print("name:", name)
+   print("marks:", marks)
+# function call
+myfunction()
