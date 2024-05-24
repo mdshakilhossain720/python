@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e8b049-e7f1-4ee7-bb77-405b0cfd007d" name="Changes" comment="conditonoperator" />
+    <list default="true" id="b1e8b049-e7f1-4ee7-bb77-405b0cfd007d" name="Changes" comment="loop">
+      <change beforePath="$PROJECT_DIR$/loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,7 @@
   &quot;keyToString&quot;: {
     &quot;Python.condition.executor&quot;: &quot;Run&quot;,
     &quot;Python.day1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop.executor&quot;: &quot;Run&quot;,
     &quot;Python.opertor.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -221,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716288715774</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="loop">
+      <option name="closed" value="true" />
+      <created>1716371877976</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716371877976</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -229,7 +240,8 @@
     <MESSAGE value="data varriable" />
     <MESSAGE value="opertor" />
     <MESSAGE value="conditonoperator" />
-    <option name="LAST_COMMIT_MESSAGE" value="conditonoperator" />
+    <MESSAGE value="loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="loop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
