@@ -5,10 +5,14 @@
 # print(type(Email))
 
 class Empoly:
-    def _init_(self):
-        self.salary=20000
-        self.age=21
+    def _init_(self,num,ag):
+        self.salary=num
+        self.age=ag
 
-e1=Empoly()
-e2=Empoly()
-print(e1.__dict__)
+e1=Empoly('raj',20)
+e2=Empoly('shakil',25)
+getattr(e1,'age')
+
+
+
+

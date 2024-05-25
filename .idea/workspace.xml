@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e8b049-e7f1-4ee7-bb77-405b0cfd007d" name="Changes" comment="functio call by value">
-      <change afterPath="$PROJECT_DIR$/OOP.py" afterDir="false" />
+    <list default="true" id="b1e8b049-e7f1-4ee7-bb77-405b0cfd007d" name="Changes" comment="oop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,19 +46,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.OOP.executor": "Run",
-    "Python.condition.executor": "Run",
-    "Python.day1.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.loop.executor": "Run",
-    "Python.opertor.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.OOP.executor&quot;: &quot;Run&quot;,
+    &quot;Python.condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.opertor.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.OOP">
     <configuration name="OOP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fullcourse" />
@@ -275,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716546514831</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="oop">
+      <option name="closed" value="true" />
+      <created>1716552945789</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716552945789</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,7 +293,8 @@
     <MESSAGE value="loop" />
     <MESSAGE value="function" />
     <MESSAGE value="functio call by value" />
-    <option name="LAST_COMMIT_MESSAGE" value="functio call by value" />
+    <MESSAGE value="oop" />
+    <option name="LAST_COMMIT_MESSAGE" value="oop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
