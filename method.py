@@ -14,3 +14,14 @@ e3 = Employee("John", 27)
 
 e1.showcount()
 Employee.counter()
+
+
+@staticmethod
+def showcount():
+            print (Employee.empCount)
+e1.showcount()
+Employee.showcount()
+
+lst = [25, 12, 10, -21, 10, 100]
+for num in lst:
+   print (num, end = ' ')
