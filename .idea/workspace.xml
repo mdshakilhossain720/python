@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e8b049-e7f1-4ee7-bb77-405b0cfd007d" name="Changes" comment="oop">
+    <list default="true" id="b1e8b049-e7f1-4ee7-bb77-405b0cfd007d" name="Changes" comment="instance">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.OOP">
+  <component name="RunManager" selected="Python.method">
     <configuration name="OOP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fullcourse" />
       <option name="ENV_FILES" value="" />
@@ -170,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="opertor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fullcourse" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opertor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.method" />
         <item itemvalue="Python.OOP" />
         <item itemvalue="Python.function" />
         <item itemvalue="Python.loop" />
         <item itemvalue="Python.condition" />
-        <item itemvalue="Python.opertor" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +281,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716552945789</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="instance">
+      <option name="closed" value="true" />
+      <created>1716634755238</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716634755238</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -294,7 +301,8 @@
     <MESSAGE value="function" />
     <MESSAGE value="functio call by value" />
     <MESSAGE value="oop" />
-    <option name="LAST_COMMIT_MESSAGE" value="oop" />
+    <MESSAGE value="instance" />
+    <option name="LAST_COMMIT_MESSAGE" value="instance" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
